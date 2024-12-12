@@ -1,0 +1,15 @@
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+*.txt
+*.pyc
+*.msp
+*.msx
+*.py
+servidor_minecraft/mods/
