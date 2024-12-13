@@ -12376,9 +12376,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+  "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
-      "has_emerald_ore": "2024-12-12 09:42:02 +0000"
+      "horrorofthe_depths_0": "2024-12-12 09:16:03 +0000"
     },
     "done": true
   },
@@ -12406,6 +12406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-12 09:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2024-12-12 09:42:02 +0000"
@@ -12418,15 +12424,27 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:horrorofthe_depths": {
-    "criteria": {
-      "horrorofthe_depths_0": "2024-12-12 09:16:03 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/quarry_upgrade": {
     "criteria": {
       "has_filth": "2024-12-12 09:48:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal": {
+    "criteria": {
+      "has_creosote": "2024-12-13 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-13 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2024-12-13 06:12:20 +0000"
     },
     "done": true
   },
