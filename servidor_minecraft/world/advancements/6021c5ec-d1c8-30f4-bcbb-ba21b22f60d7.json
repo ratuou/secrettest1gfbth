@@ -9255,6 +9255,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2024-12-13 07:38:32 +0000",
       "charm_collector_3": "2024-12-06 02:52:44 +0000",
       "charm_collector_2": "2024-12-04 00:15:26 +0000"
     },
@@ -12436,15 +12437,27 @@
     },
     "done": true
   },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2024-12-13 06:12:20 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-13 06:34:29 +0000"
     },
     "done": true
   },
-  "immersiveengineering:main/creosote": {
+  "born_in_chaos_v1:dark_creator": {
     "criteria": {
-      "has_item": "2024-12-13 06:12:20 +0000"
+      "dark_creator_0": "2024-12-13 07:38:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-13 07:35:27 +0000"
     },
     "done": true
   },
