@@ -13803,5 +13803,1061 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_button": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_andesite_lamp": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2024-12-14 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_trapdoor": {
+    "criteria": {
+      "hasFramedTrapdoor": "2024-12-14 01:40:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_soul_torch": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stacked_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2024-12-13 23:57:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2024-12-14 00:34:30 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_button": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_nugget_from_industrial_iron_ingot": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence_gate": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-14 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chiseled_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bouncy_cube": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_thick_lattice": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_bars": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-13 23:09:35 +0000"
+    },
+    "done": true
+  },
+  "estrogen:recipes/redstone/centrifuge": {
+    "criteria": {
+      "has_precision_mechanism": "2024-12-14 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_obsidian_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bars": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2024-12-14 00:00:18 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_support": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2024-12-14 00:34:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/small_large_shaftless_cogwheel_to_large/large_shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/spruce_bark": {
+    "criteria": {
+      "has_copper_block": "2024-12-14 01:17:33 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/misc/framed_reinforcement": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_hammer": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_elevated_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2024-12-13 23:57:40 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-13 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_item_frame": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_screwdriver": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_tube": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_block": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/powered_framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-12-14 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_panel_horizontal": {
+    "criteria": {
+      "hasFramedSlabEdge": "2024-12-13 23:57:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_andesite_lamp": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_blueprint": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2024-12-14 00:34:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_hanging_sign": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_wrench": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_one_way_window": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2024-12-14 00:34:30 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lattice_block": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_secret_storage": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_stairs": {
+    "criteria": {
+      "hasFramedHalfStairs": "2024-12-14 00:00:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_andesite_lamp": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_door": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2024-12-14 00:00:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lever": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/large_shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_torch": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_door": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pane": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_torch": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2024-12-14 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_half_stairs": {
+    "criteria": {
+      "hasFramedHalfStairs": "2024-12-14 00:00:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2024-12-14 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-13 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/small_large_half_shaft_cogwheel_to_large/large_half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_masonry_corner": {
+    "criteria": {
+      "hasFramedSlabEdge": "2024-12-13 23:57:32 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flower_pot": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_block": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chest": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-14 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/industrial_iron_window": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_target": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_ladder": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "estrogen:recipes/building_blocks/cookie_jar": {
+    "criteria": {
+      "has_zinc_nugget": "2024-12-14 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_copycat_block": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sign": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_glowing_cube": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2024-12-14 01:17:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-12-14 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/andesite_window": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2024-12-14 00:00:18 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_key": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall": {
+    "criteria": {
+      "hasFramedCube": "2024-12-13 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_andesite_lamp": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_slab": {
+    "criteria": {
+      "hasFramedSlabEdge": "2024-12-13 23:57:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2024-12-14 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-12-14 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_elevated_double_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2024-12-13 23:57:40 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2024-12-13 23:57:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
