@@ -69,8 +69,10 @@
     "criteria": {
       "minecraft:taiga": "2024-12-03 00:56:32 +0000",
       "minecraft:frozen_river": "2024-12-02 20:57:56 +0000",
+      "minecraft:birch_forest": "2024-12-17 18:34:11 +0000",
       "minecraft:windswept_hills": "2024-12-02 21:19:00 +0000",
       "minecraft:beach": "2024-12-03 22:02:33 +0000",
+      "minecraft:dark_forest": "2024-12-17 18:29:34 +0000",
       "minecraft:mangrove_swamp": "2024-12-06 01:57:24 +0000",
       "minecraft:river": "2024-12-02 23:58:45 +0000",
       "minecraft:lukewarm_ocean": "2024-12-07 01:18:36 +0000",
@@ -89,6 +91,7 @@
       "minecraft:snowy_beach": "2024-12-02 20:55:29 +0000",
       "minecraft:windswept_savanna": "2024-12-09 02:01:10 +0000",
       "minecraft:frozen_peaks": "2024-12-12 09:38:50 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-17 18:34:00 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-02 21:20:08 +0000",
       "minecraft:savanna": "2024-12-08 05:08:06 +0000",
       "minecraft:plains": "2024-12-04 18:34:23 +0000"
@@ -103,14 +106,17 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2024-12-17 18:40:47 +0000",
       "biomeswevegone:crag_gardens": "2024-12-06 01:41:10 +0000",
       "biomeswevegone:fragment_jungle": "2024-12-14 17:50:09 +0000",
+      "biomeswevegone:sakura_grove": "2024-12-17 18:34:46 +0000",
       "biomeswevegone:white_mangrove_marshes": "2024-12-06 02:14:13 +0000",
       "biomeswevegone:lush_stacks": "2024-12-09 01:44:45 +0000",
       "biomeswevegone:cypress_swamplands": "2024-12-03 21:59:54 +0000",
       "biomeswevegone:orchard": "2024-12-03 22:02:09 +0000",
       "biomeswevegone:ironwood_gour": "2024-12-08 05:08:08 +0000",
       "biomeswevegone:amaranth_grassland": "2024-12-06 01:39:22 +0000",
+      "biomeswevegone:weeping_witch_forest": "2024-12-17 18:29:48 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-14 17:57:24 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-02 21:21:25 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-02 20:56:56 +0000",
@@ -3739,6 +3745,7 @@
       "floodplain": "2024-12-06 01:51:17 +0000",
       "marsh": "2024-12-03 02:53:57 +0000",
       "old_growth_woodland": "2024-12-08 23:47:22 +0000",
+      "overgrown_greens": "2024-12-17 18:33:14 +0000",
       "mediterranean_forest": "2024-12-08 05:08:02 +0000",
       "hot_springs": "2024-12-02 22:53:06 +0000",
       "old_growth_dead_forest": "2024-12-02 23:55:54 +0000",
@@ -3747,6 +3754,7 @@
       "seasonal_forest": "2024-12-04 18:37:26 +0000",
       "dead_forest": "2024-12-02 22:59:55 +0000",
       "prairie": "2024-12-03 22:18:51 +0000",
+      "grassland": "2024-12-17 18:29:43 +0000",
       "snowy_coniferous_forest": "2024-12-02 22:15:55 +0000",
       "snowy_fir_clearing": "2024-12-02 22:22:41 +0000",
       "tundra": "2024-12-04 18:33:48 +0000",
@@ -14154,6 +14162,24 @@
   "copycats:recipes/misc/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2024-12-17 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:mysticsbiomes/root": {
+    "criteria": {
+      "lavender_meadow": "2024-12-17 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-17 18:36:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 18:26:47 +0000"
     },
     "done": true
   },
