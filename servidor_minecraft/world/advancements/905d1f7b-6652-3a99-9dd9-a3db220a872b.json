@@ -6108,6 +6108,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2024-12-11 04:05:10 +0000",
+      "minecraft:chicken": "2024-12-22 00:29:09 +0000",
       "minecraft:wolf": "2024-12-02 23:59:15 +0000"
     },
     "done": false
@@ -6152,7 +6153,8 @@
     "criteria": {
       "onion": "2024-12-11 04:02:47 +0000",
       "potato": "2024-12-03 00:05:29 +0000",
-      "wheat": "2024-12-03 00:05:22 +0000"
+      "wheat": "2024-12-03 00:05:22 +0000",
+      "carrot": "2024-12-22 00:31:20 +0000"
     },
     "done": false
   },
@@ -9600,33 +9602,21 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_coalburner": {
-    "criteria": {
-      "has_item": "2024-12-11 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-11 04:01:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-11 03:18:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_cornflower": "2024-12-11 04:00:57 +0000"
+      "has_chicken": "2024-12-11 03:18:28 +0000"
     },
     "done": true
   },
-  "rats:plague_doctor": {
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
     "criteria": {
-      "meet_doctor": "2024-12-11 03:46:59 +0000"
+      "has_item": "2024-12-11 03:36:31 +0000"
     },
     "done": true
   },
@@ -9636,33 +9626,9 @@
     },
     "done": true
   },
-  "rats:recipes/building_blocks/cursed_garbage": {
-    "criteria": {
-      "has_essence": "2024-12-11 03:47:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2024-12-11 04:02:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2024-12-11 03:37:06 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/smokestack_woodburner": {
     "criteria": {
       "has_item": "2024-12-11 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 04:02:36 +0000"
     },
     "done": true
   },
@@ -9678,45 +9644,9 @@
     },
     "done": true
   },
-  "smallships:recipes/combat/cannon": {
-    "criteria": {
-      "has_ship": "2024-12-11 03:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-11 03:18:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-11 03:47:37 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/smokestack_streamlined": {
     "criteria": {
       "has_item": "2024-12-11 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/filth_corruption": {
-    "criteria": {
-      "has_garbage": "2024-12-11 03:47:43 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/beast_mount_upgrade": {
-    "criteria": {
-      "has_essence": "2024-12-11 03:47:38 +0000"
-    },
-    "done": true
-  },
-  "rats:plague_cure": {
-    "criteria": {
-      "discover_leech": "2024-12-11 03:47:40 +0000"
     },
     "done": true
   },
@@ -9732,9 +9662,81 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-11 03:37:06 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2024-12-11 03:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/cursed_garbage": {
+    "criteria": {
+      "has_essence": "2024-12-11 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/beast_mount_upgrade": {
+    "criteria": {
+      "has_essence": "2024-12-11 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_cure": {
+    "criteria": {
+      "discover_leech": "2024-12-11 03:47:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/filth_corruption": {
+    "criteria": {
+      "has_garbage": "2024-12-11 03:47:43 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/quarry_upgrade": {
     "criteria": {
       "has_filth": "2024-12-11 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2024-12-11 03:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-11 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-11 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-11 04:02:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 04:02:36 +0000"
     },
     "done": true
   },

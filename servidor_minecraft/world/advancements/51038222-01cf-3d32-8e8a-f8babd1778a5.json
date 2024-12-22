@@ -12108,81 +12108,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+  "create:compacting": {
     "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+      "0": "2024-12-14 00:45:34 +0000"
     },
     "done": true
   },
   "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/link_and_pin": {
-    "criteria": {
-      "has_item": "2024-12-14 00:48:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 00:48:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/coil_hv": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2024-12-14 01:25:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-12-14 01:54:41 +0000"
     },
     "done": true
   },
@@ -12198,33 +12132,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/conveyor_dropper": {
-    "criteria": {
-      "has_trapdoor": "2024-12-14 00:48:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
-    "criteria": {
-      "has_ingot_steel": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
     },
     "done": true
   },
@@ -12234,33 +12144,75 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
+  "createdeco:recipes/decorations/industrial_iron_trapdoor": {
     "criteria": {
-      "have_experience_nugget": "2024-12-14 01:58:11 +0000"
+      "has_item": "2024-12-14 00:46:55 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+  "createdeco:recipes/misc/industrial_iron_block": {
     "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+      "has_industrial_iron_ingot": "2024-12-14 00:46:55 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/flute": {
+  "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
     "criteria": {
-      "has_bamboo": "2024-12-14 01:05:13 +0000"
+      "has_item": "2024-12-14 00:46:55 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+  "createdeco:recipes/decorations/industrial_iron_door": {
     "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+      "has_item": "2024-12-14 00:46:55 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/component_steel": {
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
     "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+      "has_item": "2024-12-14 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support": {
+    "criteria": {
+      "has_item": "2024-12-14 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/industrial_iron_window": {
+    "criteria": {
+      "has_item": "2024-12-14 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/link_and_pin": {
+    "criteria": {
+      "has_item": "2024-12-14 00:48:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 00:48:36 +0000"
     },
     "done": true
   },
@@ -12270,27 +12222,117 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/industrial_iron_trapdoor": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/misc/industrial_iron_ingot_from_industrial_iron_block": {
     "criteria": {
       "has_industrial_iron_block": "2024-12-14 00:48:36 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+  "railways:recipes/misc/crafting/small_buffer": {
     "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+      "has_item": "2024-12-14 00:48:36 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+  "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-14 01:54:41 +0000"
+      "has_industrial_iron_block": "2024-12-14 00:48:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_trapdoor": "2024-12-14 00:48:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/manhole": {
+    "criteria": {
+      "has_trapdoor": "2024-12-14 00:48:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2024-12-14 00:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-14 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-14 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-14 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 01:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 01:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 01:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 01:05:13 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-12-14 01:25:31 +0000"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2024-12-14 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
     },
     "done": true
   },
@@ -12306,18 +12348,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
@@ -12330,81 +12360,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/rockcutter": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/misc/industrial_iron_block": {
-    "criteria": {
-      "has_industrial_iron_ingot": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "create:crafter_lazy_000": {
-    "criteria": {
-      "0": "2024-12-14 01:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-14 01:00:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/verdant_bricks": {
-    "criteria": {
-      "has_item": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
     },
     "done": true
   },
@@ -12420,33 +12378,225 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/pearl_bricks": {
+    "criteria": {
+      "has_item": "2024-12-14 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-12-14 01:43:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-14 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-14 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-14 01:58:11 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2024-12-14 01:58:11 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+      "has_item": "2024-12-14 01:58:11 +0000"
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/small_buffer": {
+  "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
-      "has_item": "2024-12-14 00:48:36 +0000"
+      "has_item": "2024-12-14 01:58:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
     "criteria": {
-      "has_bamboo": "2024-12-14 01:05:13 +0000"
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
     "criteria": {
-      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-14 01:59:36 +0000"
     },
     "done": true
   },
@@ -12462,87 +12612,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "immersiveengineering:recipes/misc/crafting/armor_steel_helmet": {
     "criteria": {
-      "has_bamboo": "2024-12-14 01:05:13 +0000"
+      "has_steel_plate": "2024-12-14 02:00:06 +0000"
     },
     "done": true
   },
-  "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
+  "immersiveengineering:recipes/misc/crafting/armor_steel_boots": {
     "criteria": {
-      "has_industrial_iron_block": "2024-12-14 00:48:36 +0000"
+      "has_steel_plate": "2024-12-14 02:00:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel": {
     "criteria": {
-      "has_smooth_stone": "2024-12-14 01:00:43 +0000"
+      "has_plate_steel": "2024-12-14 02:00:06 +0000"
     },
     "done": true
   },
-  "rats:recipes/building_blocks/manhole": {
+  "immersiveengineering:recipes/misc/crafting/chute_steel": {
     "criteria": {
-      "has_trapdoor": "2024-12-14 00:48:47 +0000"
+      "has_plate": "2024-12-14 02:00:06 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/verdant_bricks": {
+    "criteria": {
+      "has_item": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
     },
     "done": true
   },
   "create:recipes/misc/blasting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2024-12-14 01:43:19 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_door": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_steel_helmet": {
-    "criteria": {
-      "has_steel_plate": "2024-12-14 02:00:06 +0000"
     },
     "done": true
   },
@@ -12564,81 +12732,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sawblade": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
-    "criteria": {
-      "has_item": "2024-12-14 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_support": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard_clear": {
-    "criteria": {
-      "has_item": "2024-12-14 00:53:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "create:compacting": {
-    "criteria": {
-      "0": "2024-12-14 00:45:34 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_structural": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_block": {
-    "criteria": {
-      "has_item": "2024-12-14 01:58:11 +0000"
     },
     "done": true
   },
@@ -12651,12 +12747,6 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_steel_boots": {
-    "criteria": {
-      "has_steel_plate": "2024-12-14 02:00:06 +0000"
     },
     "done": true
   },
@@ -12678,45 +12768,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel": {
-    "criteria": {
-      "has_plate_steel": "2024-12-14 02:00:06 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/industrial_iron_window": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_fence": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 00:46:55 +0000"
     },
     "done": true
   },
@@ -12726,63 +12780,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-14 01:00:43 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_steel": {
-    "criteria": {
-      "has_plate": "2024-12-14 02:00:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2024-12-14 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sword_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/pearl_bricks": {
-    "criteria": {
-      "has_item": "2024-12-14 01:31:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
-    "criteria": {
-      "has_ingot_steel": "2024-12-14 01:59:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2024-12-14 01:05:13 +0000"
     },
     "done": true
   },
