@@ -67,8 +67,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-25 01:46:43 +0000",
       "minecraft:taiga": "2024-12-03 00:56:32 +0000",
       "minecraft:frozen_river": "2024-12-02 20:57:56 +0000",
+      "minecraft:sunflower_plains": "2024-12-25 01:23:11 +0000",
       "minecraft:birch_forest": "2024-12-17 18:34:11 +0000",
       "minecraft:windswept_hills": "2024-12-02 21:19:00 +0000",
       "minecraft:beach": "2024-12-03 22:02:33 +0000",
@@ -92,6 +94,7 @@
       "minecraft:windswept_savanna": "2024-12-09 02:01:10 +0000",
       "minecraft:frozen_peaks": "2024-12-12 09:38:50 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-17 18:34:00 +0000",
+      "minecraft:meadow": "2024-12-25 01:29:01 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-02 21:20:08 +0000",
       "minecraft:savanna": "2024-12-08 05:08:06 +0000",
       "minecraft:plains": "2024-12-04 18:34:23 +0000"
@@ -113,6 +116,7 @@
       "biomeswevegone:sakura_grove": "2024-12-17 18:34:46 +0000",
       "biomeswevegone:white_mangrove_marshes": "2024-12-06 02:14:13 +0000",
       "biomeswevegone:lush_stacks": "2024-12-09 01:44:45 +0000",
+      "biomeswevegone:coconino_meadow": "2024-12-25 01:24:22 +0000",
       "biomeswevegone:cypress_swamplands": "2024-12-03 21:59:54 +0000",
       "biomeswevegone:orchard": "2024-12-03 22:02:09 +0000",
       "biomeswevegone:ironwood_gour": "2024-12-08 05:08:08 +0000",
@@ -123,6 +127,7 @@
       "biomeswevegone:shattered_glacier": "2024-12-02 20:56:56 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-03 22:00:29 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-02 20:56:45 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2024-12-25 01:29:43 +0000",
       "biomeswevegone:coniferous_forest": "2024-12-02 22:59:47 +0000",
       "biomeswevegone:bayou": "2024-12-07 02:17:33 +0000"
     },
@@ -2358,6 +2363,7 @@
       "minecraft:husk": "2024-12-03 19:38:44 +0000",
       "minecraft:cave_spider": "2024-12-06 00:07:46 +0000",
       "minecraft:enderman": "2024-12-05 23:13:41 +0000",
+      "minecraft:stray": "2024-12-25 01:07:49 +0000",
       "minecraft:vex": "2024-12-03 00:50:03 +0000",
       "minecraft:zombie": "2024-12-03 00:34:26 +0000",
       "quark:foxhound": "2024-12-07 02:02:17 +0000",
@@ -3748,9 +3754,11 @@
       "floodplain": "2024-12-06 01:51:17 +0000",
       "marsh": "2024-12-03 02:53:57 +0000",
       "old_growth_woodland": "2024-12-08 23:47:22 +0000",
+      "field": "2024-12-25 01:48:14 +0000",
       "overgrown_greens": "2024-12-17 18:33:14 +0000",
       "mediterranean_forest": "2024-12-08 05:08:02 +0000",
       "hot_springs": "2024-12-02 22:53:06 +0000",
+      "forested_field": "2024-12-25 01:46:40 +0000",
       "old_growth_dead_forest": "2024-12-02 23:55:54 +0000",
       "redwood_forest": "2024-12-06 01:28:36 +0000",
       "dune_beach": "2024-12-09 02:02:46 +0000",
@@ -15099,9 +15107,117 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-23 06:05:24 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
     "criteria": {
       "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/craftingtable": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_fence": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_treated": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/crate": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/workbench": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
+    "criteria": {
+      "has_treated_planks": "2024-12-23 06:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-23 06:08:28 +0000"
     },
     "done": true
   },
@@ -15123,39 +15239,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2024-12-23 07:36:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-23 07:57:54 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_mixer": {
-    "criteria": {
-      "0": "2024-12-23 06:12:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2024-12-23 06:11:34 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
     },
     "done": true
   },
@@ -15165,33 +15251,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/craftingtable": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2024-12-23 07:57:53 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
     },
     "done": true
   },
@@ -15204,12 +15266,6 @@
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_clear_glass_scaffolding": {
     "criteria": {
       "has_valve": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
-    "criteria": {
-      "has_item": "2024-12-23 07:57:53 +0000"
     },
     "done": true
   },
@@ -15237,21 +15293,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_fence": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-23 07:57:53 +0000"
     },
     "done": true
   },
@@ -15267,12 +15311,6 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/bee_upgrade": {
-    "criteria": {
-      "has_bottle": "2024-12-23 07:33:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2024-12-23 06:08:47 +0000"
@@ -15285,45 +15323,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-23 07:33:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-23 07:33:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_treated": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/craft_treatedwood": {
-    "criteria": {
-      "has_item": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2024-12-23 06:05:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-23 07:57:52 +0000"
     },
     "done": true
   },
@@ -15333,39 +15335,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-23 07:57:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
   "crystal_clear:recipes/decorations/crafting/glass_casing/brass_clear_glass_casing": {
     "criteria": {
       "has_valve": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2024-12-23 07:36:20 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/crate": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
     },
     "done": true
   },
@@ -15375,69 +15347,9 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/crafting/copycat_cogwheel": {
-    "criteria": {
-      "has_item": "2024-12-23 06:11:34 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_mv": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2024-12-23 07:36:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2024-12-23 07:36:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/generator": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/workbench": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2024-12-23 07:36:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
     },
     "done": true
   },
@@ -15459,45 +15371,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2024-12-23 07:36:23 +0000"
-    },
-    "done": true
-  },
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/andesite_glass_scaffolding": {
     "criteria": {
       "has_valve": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2024-12-23 06:08:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-23 07:33:59 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
     },
     "done": true
   },
@@ -15513,51 +15389,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/heavy_engineering": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
   "crystal_clear:recipes/decorations/crafting/glass_scaffolding/brass_glass_scaffolding": {
     "criteria": {
       "has_valve": "2024-12-23 06:08:47 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
-    "criteria": {
-      "has_treated_planks": "2024-12-23 06:08:16 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2024-12-23 07:36:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-23 07:57:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2024-12-23 06:11:34 +0000"
     },
     "done": true
   },
@@ -15576,6 +15410,246 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2024-12-23 06:08:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-23 06:11:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-23 06:11:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-23 06:11:34 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-23 06:12:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/generator": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/heavy_engineering": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-23 06:51:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bee_upgrade": {
+    "criteria": {
+      "has_bottle": "2024-12-23 07:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-23 07:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-23 07:33:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-23 07:33:59 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-23 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-12-23 07:36:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-12-23 07:36:23 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-12-23 07:36:23 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2024-12-23 07:36:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-23 07:36:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-12-23 07:36:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-23 07:57:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 07:57:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 07:57:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 07:57:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 07:57:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 07:57:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 07:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-25 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-25 01:30:41 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-25 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-25 01:30:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-25 01:30:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-25 01:30:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-25 01:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-25 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tick_accelerator_upgrade": {
+    "criteria": {
+      "has_clock": "2024-12-25 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-25 01:46:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-25 01:30:41 +0000"
     },
     "done": true
   },
