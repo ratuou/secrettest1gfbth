@@ -74,8 +74,10 @@
       "minecraft:sunflower_plains": "2024-12-25 01:23:11 +0000",
       "minecraft:birch_forest": "2024-12-17 18:34:11 +0000",
       "minecraft:windswept_hills": "2024-12-02 21:19:00 +0000",
+      "minecraft:badlands": "2025-01-08 22:49:26 +0000",
       "minecraft:beach": "2024-12-03 22:02:33 +0000",
       "minecraft:dark_forest": "2024-12-17 18:29:34 +0000",
+      "minecraft:stony_peaks": "2025-01-08 23:05:17 +0000",
       "minecraft:mangrove_swamp": "2024-12-06 01:57:24 +0000",
       "minecraft:river": "2024-12-02 23:58:45 +0000",
       "minecraft:lukewarm_ocean": "2024-12-07 01:18:36 +0000",
@@ -113,10 +115,12 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:redwood_thicket": "2024-12-17 18:40:47 +0000",
+      "biomeswevegone:atacama_outback": "2025-01-08 22:50:53 +0000",
       "biomeswevegone:araucaria_savanna": "2024-12-19 04:34:07 +0000",
       "biomeswevegone:windswept_desert": "2024-12-27 22:24:47 +0000",
       "biomeswevegone:crag_gardens": "2024-12-06 01:41:10 +0000",
       "biomeswevegone:fragment_jungle": "2024-12-14 17:50:09 +0000",
+      "biomeswevegone:rugged_badlands": "2025-01-08 22:53:27 +0000",
       "biomeswevegone:sakura_grove": "2024-12-17 18:34:46 +0000",
       "biomeswevegone:white_mangrove_marshes": "2024-12-06 02:14:13 +0000",
       "biomeswevegone:lush_stacks": "2024-12-09 01:44:45 +0000",
@@ -129,7 +133,9 @@
       "biomeswevegone:basalt_barrera": "2024-12-14 17:57:24 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-02 21:21:25 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-02 20:56:56 +0000",
+      "biomeswevegone:howling_peaks": "2025-01-08 23:06:26 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-03 22:00:29 +0000",
+      "biomeswevegone:baobab_savanna": "2025-01-08 22:59:37 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-02 20:56:45 +0000",
       "biomeswevegone:overgrowth_woodlands": "2024-12-25 01:29:43 +0000",
       "biomeswevegone:coniferous_forest": "2024-12-02 22:59:47 +0000",
@@ -3757,12 +3763,14 @@
       "bayou": "2024-12-07 01:16:04 +0000",
       "floodplain": "2024-12-06 01:51:17 +0000",
       "marsh": "2024-12-03 02:53:57 +0000",
+      "jade_cliffs": "2025-01-08 23:05:32 +0000",
       "old_growth_woodland": "2024-12-08 23:47:22 +0000",
       "field": "2024-12-25 01:48:14 +0000",
       "overgrown_greens": "2024-12-17 18:33:14 +0000",
       "mediterranean_forest": "2024-12-08 05:08:02 +0000",
       "hot_springs": "2024-12-02 22:53:06 +0000",
       "forested_field": "2024-12-25 01:46:40 +0000",
+      "dryland": "2025-01-08 22:52:58 +0000",
       "wasteland": "2024-12-27 22:26:08 +0000",
       "old_growth_dead_forest": "2024-12-02 23:55:54 +0000",
       "lush_desert": "2024-12-27 22:24:37 +0000",
@@ -15660,15 +15668,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_chestplate": {
+  "born_in_chaos_v1:disgusting_lootbox": {
     "criteria": {
-      "has_item": "2024-12-27 22:32:40 +0000"
+      "disgusting_lootbox_0": "2024-12-27 22:05:15 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_boots": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "has_item": "2024-12-27 22:32:40 +0000"
+      "in_better_spider_dungeon": "2024-12-27 22:05:45 +0000"
     },
     "done": true
   },
@@ -15702,12 +15710,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
-    "criteria": {
-      "has_item": "2024-12-27 22:32:40 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/building_blocks/sakura_slab": {
     "criteria": {
       "has_planks": "2024-12-27 22:15:48 +0000"
@@ -15717,18 +15719,6 @@
   "biomeswevegone:recipes/redstone/sakura_button": {
     "criteria": {
       "has_planks": "2024-12-27 22:15:48 +0000"
-    },
-    "done": true
-  },
-  "rats:plague": {
-    "criteria": {
-      "catch_plague": "2024-12-27 22:22:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2024-12-27 22:32:40 +0000"
     },
     "done": true
   },
@@ -15744,12 +15734,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
-    "criteria": {
-      "has_item": "2024-12-27 22:17:34 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/decorations/sakura_sign": {
     "criteria": {
       "has_planks": "2024-12-27 22:15:48 +0000"
@@ -15762,27 +15746,147 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
-    "criteria": {
-      "has_sea_serpent_scales_teal": "2024-12-27 22:32:40 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/biomeswevegone/sign_post_sakura": {
     "criteria": {
       "has_planks": "2024-12-27 22:15:48 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:disgusting_lootbox": {
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
-      "disgusting_lootbox_0": "2024-12-27 22:05:15 +0000"
+      "has_item": "2024-12-27 22:17:34 +0000"
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "rats:plague": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-12-27 22:05:45 +0000"
+      "catch_plague": "2024-12-27 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-12-27 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/smooth_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-08 22:50:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-01-08 23:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_windswept_sandstone_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_pillar": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/windswept_sandstone_wall_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_slab": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_stairs": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/windswept_sandstone_wall": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
     },
     "done": true
   },
