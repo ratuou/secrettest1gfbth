@@ -15806,18 +15806,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-01-08 22:50:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/froststalker_kill": {
-    "criteria": {
-      "ex": "2025-01-08 23:13:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_windswept_sandstone_from_windswept_sandstone_stonecutting": {
     "criteria": {
       "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
@@ -15887,6 +15875,18 @@
   "minecraft:recipes/building_blocks/cut_windswept_sandstone_from_windswept_sandstone_stonecutting": {
     "criteria": {
       "has_windswept_sandstone": "2025-01-08 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-08 22:50:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-01-08 23:13:02 +0000"
     },
     "done": true
   },
